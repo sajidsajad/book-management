@@ -87,4 +87,6 @@ nodemon: Starts the server and watches for changes in the source code, automatic
 | GET    | `/api/reviews/book/:bookId`  | Get all reviews for a book               |
 | GET    | `/api/reviews/:bookId`       | Get all reviews for book by User (Authenticated) |
 
+I have also added the postman collection named "Book Management.postman_collection.json"
+
 
